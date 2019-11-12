@@ -6,6 +6,7 @@
 
 * [千锋2019软件测试项目实践-功能测试](https://www.bilibili.com/video/av67717723?from=search&seid=11668544806802974054)
 * [软件测试全套教程](https://www.bilibili.com/video/av69230181/?spm_id_from=333.788.videocard.0)
+* [2019千锋软件测试-接口测试全套视频教程](https://www.bilibili.com/video/av63249355/?spm_id_from=333.788.videocard.6)
 
 
 # 有用的参考

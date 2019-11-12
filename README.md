@@ -6,6 +6,13 @@
  
  * [软件测试全套教程](https://www.bilibili.com/video/av69230181/?spm_id_from=333.788.videocard.0)
 
+##  单元测试
+
+  * [单元测试](https://www.bilibili.com/video/av46370535?from=search&seid=5196717484594619472)
+## 集成测试
+
+## 系统测试
+
 ## 功能测试
 * [千锋2019软件测试项目实践-功能测试](https://www.bilibili.com/video/av67717723?from=search&seid=11668544806802974054)
 

@@ -2,7 +2,9 @@
 
 
 
+# 视频
 
+* [千锋2019软件测试项目实践-功能测试](https://www.bilibili.com/video/av67717723?from=search&seid=11668544806802974054)
 
 
 # 有用的参考

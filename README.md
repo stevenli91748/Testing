@@ -25,6 +25,9 @@
 ## 界面测试
 
 
+## 移动端测试
+* [移动端测试技术](https://www.bilibili.com/video/av56801623?from=search&seid=11530379014800168625)
+
 
 # 有用的参考
 

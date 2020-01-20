@@ -34,3 +34,4 @@
 * [50本关于软件测试的书籍](https://blog.csdn.net/weixin_41055728/article/details/79974934)
 * [软件测试十本书](https://blog.csdn.net/zhouyulu/article/details/78268631)
 * [【千锋教育】软件测试 600集（学完可就业/2019版）](https://www.bilibili.com/video/av69422334?from=search&seid=6827222005976129424)
+* [接口自动化测试体系构建](https://www.bilibili.com/video/av75749911/?spm_id_from=333.788.videocard.1)

@@ -27,7 +27,7 @@
 
 ## 移动端测试
 * [移动端测试技术](https://www.bilibili.com/video/av56801623?from=search&seid=11530379014800168625)
-
+* [使用java构建和维护接口自动化测试框架](https://www.imooc.com/learn/847)
 
 # 有用的参考
 

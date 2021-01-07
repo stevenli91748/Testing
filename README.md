@@ -5,6 +5,16 @@
  
  [软件测试全套教程](https://www.bilibili.com/video/av69230181/?spm_id_from=333.788.videocard.0)|
  ---|
+ 
+ # 软件测试先后步骤：
+
+         1、代码开发阶段——单元测试【pytest、unittest】
+
+         2、开发完成——api测试即接口测试
+
+         3、页面开发完成稳定后——UI自动化【selenium】
+
+         4、上线前性能、安全、兼容性测试【Jmeter】
 
 ## 1. 单元测试
    * [单元测试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/IntellijIDEA/IDEA%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/README.md)

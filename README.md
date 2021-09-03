@@ -5,7 +5,7 @@
 
 * [2020 软件测试教程](https://www.kancloud.cn/apachecn/guru99-zh/1953496)
   * [2020 年 15 种最佳测试数据生成工具](https://www.kancloud.cn/apachecn/guru99-zh/1953679) 
-
+    * [mysql数据库的免费测试数据生成器](https://www.coder.work/article/144956)
 * [软件测试全套教程](https://www.bilibili.com/video/av69230181/?spm_id_from=333.788.videocard.0)|
  
  

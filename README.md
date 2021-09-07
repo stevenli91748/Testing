@@ -39,6 +39,8 @@
 ## 4. 端到端测试
    * 用户界面端到端测试
    * REST API 端到端测试
+     * postman测试
+     * [curl测试  ](https://www.ruanyifeng.com/blog/2019/09/curl-reference.html)
 
 ## 性能测试
 * [LoadRunner 2017最新性能测试教程视频(共20节课)](https://www.bilibili.com/video/av13809953?from=search&seid=10195134810312223084)

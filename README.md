@@ -22,6 +22,7 @@
 ## 1. 单元测试
    * [单元测试](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/IntellijIDEA/IDEA%E5%8D%95%E5%85%83%E6%B5%8B%E8%AF%95/README.md)
    * [Software Testing Tutorial - Learn Unit Testing and Integration Testing](https://www.youtube.com/watch?v=Geq60OVyBPg)
+   * [CRUD JUnit Tests for Spring Data JPA - Testing Repository Layer](https://www.javaguides.net/2021/07/crud-junit-tests-for-spring-data-jpa.html)
 ## 2. 接口测试
 
    * [2019千锋软件测试-接口测试全套视频教程](https://www.bilibili.com/video/av63249355/?spm_id_from=333.788.videocard.6)

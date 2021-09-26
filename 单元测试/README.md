@@ -3,6 +3,7 @@
   * Junit
   * TestNG
     * [TestNG例子程序](http://websystique.com/java/testng-tutorial/)
+    * [TestNG教程](https://www.yiibai.com/testng/)
 
 # 视频
 
